@@ -157,7 +157,7 @@ Vous pouvez consulter l’état des fichiers sur le serveur GitLab en utilisant 
 
    #+begin_src shell
      # Seulement la première fois
-     git remote add upstream https://stl.algo-prog.info/calculabilite2022/TME-python-2
+     git remote add upstream https://stl.algo-prog.info/calculabilite2022/TME-python-3
    #+end_src
 
    Pour les suivantes, elles devront être effectuées à chaque modification du sujet de TME.
