@@ -1,4 +1,3 @@
-
 #=============================================================#
 # UE Calculabilite L3                                         #
 # TME Grammaires Hors Contexte : langage engendre par une GHC #
@@ -26,7 +25,7 @@ from ensembles import *
 # Exemple : GHC G1
 # ----------------
 
-g1_nt = ["S","A1","A2","A3","A4""A5","A6","A7","A8","A9"]
+g1_nt = ["S","A1","A2","A3","A4","A5","A6","A7","A8","A9"]
 g1_t = ["a","b","c"]
 g1_r = [("S",[["A1"],["A2"],["A3"]]),\
         ("A1",[["a","A1","A1"],["a","A2","A4"],["a","A3","A7"],["A4"]]),\
